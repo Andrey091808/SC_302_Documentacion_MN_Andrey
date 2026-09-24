@@ -1,1 +1,4 @@
-# SC_302_Documentacion_MN_Andrey
+# SC\_302\_Documentacion\_MN\_Andrey
+
+ESTA ES MI PRIMERO PRACTICA CON GITHUB
+
